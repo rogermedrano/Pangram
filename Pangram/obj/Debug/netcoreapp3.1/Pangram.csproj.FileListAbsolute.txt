@@ -1,0 +1,14 @@
+C:\Users\roger\OneDrive\Desktop\REPO\Pangram\Pangram\bin\Debug\netcoreapp3.1\Pangram.exe
+C:\Users\roger\OneDrive\Desktop\REPO\Pangram\Pangram\bin\Debug\netcoreapp3.1\Pangram.deps.json
+C:\Users\roger\OneDrive\Desktop\REPO\Pangram\Pangram\bin\Debug\netcoreapp3.1\Pangram.runtimeconfig.json
+C:\Users\roger\OneDrive\Desktop\REPO\Pangram\Pangram\bin\Debug\netcoreapp3.1\Pangram.runtimeconfig.dev.json
+C:\Users\roger\OneDrive\Desktop\REPO\Pangram\Pangram\bin\Debug\netcoreapp3.1\Pangram.dll
+C:\Users\roger\OneDrive\Desktop\REPO\Pangram\Pangram\bin\Debug\netcoreapp3.1\Pangram.pdb
+C:\Users\roger\OneDrive\Desktop\REPO\Pangram\Pangram\obj\Debug\netcoreapp3.1\Pangram.csproj.AssemblyReference.cache
+C:\Users\roger\OneDrive\Desktop\REPO\Pangram\Pangram\obj\Debug\netcoreapp3.1\Pangram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\OneDrive\Desktop\REPO\Pangram\Pangram\obj\Debug\netcoreapp3.1\Pangram.AssemblyInfoInputs.cache
+C:\Users\roger\OneDrive\Desktop\REPO\Pangram\Pangram\obj\Debug\netcoreapp3.1\Pangram.AssemblyInfo.cs
+C:\Users\roger\OneDrive\Desktop\REPO\Pangram\Pangram\obj\Debug\netcoreapp3.1\Pangram.csproj.CoreCompileInputs.cache
+C:\Users\roger\OneDrive\Desktop\REPO\Pangram\Pangram\obj\Debug\netcoreapp3.1\Pangram.dll
+C:\Users\roger\OneDrive\Desktop\REPO\Pangram\Pangram\obj\Debug\netcoreapp3.1\Pangram.pdb
+C:\Users\roger\OneDrive\Desktop\REPO\Pangram\Pangram\obj\Debug\netcoreapp3.1\Pangram.genruntimeconfig.cache
